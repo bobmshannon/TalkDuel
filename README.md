@@ -1,26 +1,24 @@
-# TalkDuel
+## README
 
-Commits pushed to the <b>master</b> branch are automatically deployed to [https://www.talkduel.com](https://www.talkduel.com).
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Commits pushed to the <b>dev</b> branch are automatically deployed to [https://dev.talkduel.com](https://dev.talkduel.com).
+Things you may want to cover:
 
-Running locally
----------------
-0. If you have not done so already, install both [Vagrant](http://www.vagrantup.com) and [VirtualBox](http://www.virtualbox.org).
+* Ruby version
 
-1. Clone this repo:
-	```sh
-	git clone git@github.com:bobmshannon/TalkDuel.git
-	```
+* System dependencies
 
-2. Start the virtual machine:
-	```sh
-	vagrant up
-	```
+* Configuration
 
-3. SSH in to the virtual machine:
-	```sh
-	vagrant ssh
-	```
+* Database creation
 
-4. Access the the server locally at [http://localhost:8080/](http://localhost:8081/) 
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
