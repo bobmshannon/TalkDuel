@@ -52,6 +52,7 @@ GEM
       girl_friday
       niceogiri (~> 1.0)
       nokogiri (~> 1.5, >= 1.5.6)
+    bower-rails (0.10.0)
     builder (3.2.2)
     byebug (8.2.1)
     celluloid (0.17.2)
@@ -188,6 +189,7 @@ PLATFORMS
 
 DEPENDENCIES
   blather
+  bower-rails
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)

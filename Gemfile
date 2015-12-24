@@ -24,6 +24,9 @@ gem 'puma'
 # Rails XMPP client
 gem 'blather'
 
+# Bower package manager
+gem 'bower-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
