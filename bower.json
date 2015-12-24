@@ -1,0 +1,23 @@
+{
+  "name": "TalkDuel",
+  "homepage": "https://github.com/bobmshannon/TalkDuel",
+  "authors": [
+    "Bob Shannon <rshannon@buffalo.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
