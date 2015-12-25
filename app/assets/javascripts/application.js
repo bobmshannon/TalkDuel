@@ -13,4 +13,6 @@
 //= require angular
 //= require jquery
 //= require bootstrap-sprockets
+//= require chat-client/libs.min
+//= require chat-client/candy.min
 //= require_tree .
