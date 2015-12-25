@@ -45,6 +45,7 @@ GEM
       method_source
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+    angularjs-rails (1.4.8)
     arel (7.0.0)
     autoprefixer-rails (6.2.1)
       execjs
@@ -207,6 +208,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  angularjs-rails
   blather
   bootstrap-sass
   bower-rails
